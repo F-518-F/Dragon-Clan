@@ -6,7 +6,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
  
 local window = library:AddWindow("Dragon Clan Script | For Clan 🐉", {
-    main_color = Color3.fromRGB(88, 104, 75), -- Custom emerald green color
+    main_color = Color3.fromRGB(255, 0, 0), --   Custom Red color
     min_size = Vector2.new(700, 900),
     can_resize = true,
 })
