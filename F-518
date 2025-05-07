@@ -1376,6 +1376,6 @@ pets:AddSwitch("Auto Open Aura", function(bool)
                 end
                 task.wait(1)
             end
-       end)
+        end)
     end
-end
+end)
